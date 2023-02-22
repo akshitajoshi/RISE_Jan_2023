@@ -1,3 +1,4 @@
 Third txt file
 hello third txt file
 Hello master third txt file
+fourth line in branch 1
