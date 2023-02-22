@@ -1,4 +1,5 @@
 Third txt file
 hello third txt file
 Hello master third txt file
+practice for merge conflict
 fourth line in branch 1
